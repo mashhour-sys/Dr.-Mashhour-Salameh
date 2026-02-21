@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Syrian National Strategic Monitoring Unit",
+  "description": "A high-level strategic intelligence and OSINT dashboard for the Syrian National Strategic Monitoring and Analysis Unit, featuring data fusion, real-time alerts, and Gemini-powered analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
