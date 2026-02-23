@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Dr. Mashhour Salameh - Web Extension",
+  "version": "1.0.0",
+  "description": "Chrome extension built from the React app (popup)",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Dr. Mashhour"
+  },
+  "permissions": []
+}

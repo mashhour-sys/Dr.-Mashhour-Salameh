@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build:chrome": "vite build && cp manifest.json dist/"
   },
   "dependencies": {
     "react": "^19.2.4",
